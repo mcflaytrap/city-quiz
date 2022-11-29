@@ -1,3 +1,5 @@
+#Students = Ege Berk Yılmaz 180209041, Eda Nur Öcalan 180209016
+
 import turtle
 
 import pandas as pd
