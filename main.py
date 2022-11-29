@@ -1,4 +1,5 @@
 #Students = Ege Berk Yılmaz 180209041, Eda Nur Öcalan 180209016
+# Hocam Ege Berk yollamıştı alms'den ama csv dosyamız github'tan inmemiş o yüzden tekrardan eksiksiz halini ben yolluyorum.
 
 import turtle
 
